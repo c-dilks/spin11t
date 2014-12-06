@@ -22,7 +22,7 @@ void Bin_Splitter()
   Int_t pt_bins=0;
 
   Double_t en_low=0.0;
-  Double_t en_high=250; 
+  Double_t en_high=100; 
   Int_t en_bins=1;
 
   char efile[64];
